@@ -5,7 +5,13 @@
             "intelliSenseMode": "gcc-x64",
             "compilerPath": "D:\\MinGW\\bin\\g++.exe",
             "includePath": [
-                "${workspaceFolder}"
+                "${workspaceFolder}"，
+                "${workspaceFolder}",
+                "${default}",
+                "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v10.0\\include",
+                "D:\\Softwares\\opencv4.5.1GPU\\include",
+                "D:\\Softwares\\ffmpeg-shared\\include",
+                "D:\\Softwares\\Qt\\5.10.0\\msvc2015_64\\include\\**"
             ],
             "cppStandard": "c++17"
         }
